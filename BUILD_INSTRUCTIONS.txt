@@ -1,0 +1,7 @@
+Build:
+1. Open this project in Android Studio or AndroidIDE.
+2. Let Gradle sync.
+3. Build > Build APK(s).
+The APK will be app/build/outputs/apk/debug/app-debug.apk
+
+The included GitHub Actions workflow can also build the debug APK after the project is uploaded to a GitHub repository.
